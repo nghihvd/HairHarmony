@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SE\\Se_5\\PRN212\\PRN212_HairHarmony_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B090436-675F-4406-9FFC-B6645858A995}|HairHarmony_DAOs\\HairHarmony_DAOs.csproj|d:\\se\\se_5\\prn212\\prn212_hairharmony_solution\\hairharmony_daos\\hairharmonycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B090436-675F-4406-9FFC-B6645858A995}|HairHarmony_DAOs\\HairHarmony_DAOs.csproj|solutionrelative:hairharmony_daos\\hairharmonycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B090436-675F-4406-9FFC-B6645858A995}|HairHarmony_DAOs\\HairHarmony_DAOs.csproj|d:\\se\\se_5\\prn212\\prn212_hairharmony_solution\\hairharmony_daos\\hairharmony_daos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B090436-675F-4406-9FFC-B6645858A995}|HairHarmony_DAOs\\HairHarmony_DAOs.csproj|solutionrelative:hairharmony_daos\\hairharmony_daos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E989AFC-22C7-4882-A73E-E8E5CDCC5C54}|PRN212_HairHarmony\\PRN212_HairHarmony.csproj|d:\\se\\se_5\\prn212\\prn212_hairharmony_solution\\prn212_hairharmony\\prn212_hairharmony.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4E989AFC-22C7-4882-A73E-E8E5CDCC5C54}|PRN212_HairHarmony\\PRN212_HairHarmony.csproj|solutionrelative:prn212_hairharmony\\prn212_hairharmony.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD82308-1C51-4F01-8E78-8DA3FD30DFEA}|HairHarmony_Services\\HairHarmony_Services.csproj|d:\\se\\se_5\\prn212\\prn212_hairharmony_solution\\hairharmony_services\\hairharmony_services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8DD82308-1C51-4F01-8E78-8DA3FD30DFEA}|HairHarmony_Services\\HairHarmony_Services.csproj|solutionrelative:hairharmony_services\\hairharmony_services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE2922A3-38FE-4B55-87A8-388E6D63E1DA}|HairHarmony_Repository\\HairHarmony_Repository.csproj|d:\\se\\se_5\\prn212\\prn212_hairharmony_solution\\hairharmony_repository\\hairharmony_repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BE2922A3-38FE-4B55-87A8-388E6D63E1DA}|HairHarmony_Repository\\HairHarmony_Repository.csproj|solutionrelative:hairharmony_repository\\hairharmony_repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07754AA2-DAF7-4418-9F67-D8739A651C8B}|HairHarmony_BusinessObject\\HairHarmony_BusinessObject.csproj|d:\\se\\se_5\\prn212\\prn212_hairharmony_solution\\hairharmony_businessobject\\hairharmony_businessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{07754AA2-DAF7-4418-9F67-D8739A651C8B}|HairHarmony_BusinessObject\\HairHarmony_BusinessObject.csproj|solutionrelative:hairharmony_businessobject\\hairharmony_businessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E989AFC-22C7-4882-A73E-E8E5CDCC5C54}|PRN212_HairHarmony\\PRN212_HairHarmony.csproj|d:\\se\\se_5\\prn212\\prn212_hairharmony_solution\\prn212_hairharmony\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4E989AFC-22C7-4882-A73E-E8E5CDCC5C54}|PRN212_HairHarmony\\PRN212_HairHarmony.csproj|solutionrelative:prn212_hairharmony\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E989AFC-22C7-4882-A73E-E8E5CDCC5C54}|PRN212_HairHarmony\\PRN212_HairHarmony.csproj|d:\\se\\se_5\\prn212\\prn212_hairharmony_solution\\prn212_hairharmony\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E989AFC-22C7-4882-A73E-E8E5CDCC5C54}|PRN212_HairHarmony\\PRN212_HairHarmony.csproj|solutionrelative:prn212_hairharmony\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HairHarmonyContext.cs",
+              "DocumentMoniker": "D:\\SE\\Se_5\\PRN212\\PRN212_HairHarmony_Solution\\HairHarmony_DAOs\\HairHarmonyContext.cs",
+              "RelativeDocumentMoniker": "HairHarmony_DAOs\\HairHarmonyContext.cs",
+              "ToolTip": "D:\\SE\\Se_5\\PRN212\\PRN212_HairHarmony_Solution\\HairHarmony_DAOs\\HairHarmonyContext.cs",
+              "RelativeToolTip": "HairHarmony_DAOs\\HairHarmonyContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIA7wCEAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:52:19.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PRN212_HairHarmony.csproj",
+              "DocumentMoniker": "D:\\SE\\Se_5\\PRN212\\PRN212_HairHarmony_Solution\\PRN212_HairHarmony\\PRN212_HairHarmony.csproj",
+              "RelativeDocumentMoniker": "PRN212_HairHarmony\\PRN212_HairHarmony.csproj",
+              "ToolTip": "D:\\SE\\Se_5\\PRN212\\PRN212_HairHarmony_Solution\\PRN212_HairHarmony\\PRN212_HairHarmony.csproj",
+              "RelativeToolTip": "PRN212_HairHarmony\\PRN212_HairHarmony.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-01T12:50:12.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HairHarmony_Services.csproj",
+              "DocumentMoniker": "D:\\SE\\Se_5\\PRN212\\PRN212_HairHarmony_Solution\\HairHarmony_Services\\HairHarmony_Services.csproj",
+              "RelativeDocumentMoniker": "HairHarmony_Services\\HairHarmony_Services.csproj",
+              "ToolTip": "D:\\SE\\Se_5\\PRN212\\PRN212_HairHarmony_Solution\\HairHarmony_Services\\HairHarmony_Services.csproj",
+              "RelativeToolTip": "HairHarmony_Services\\HairHarmony_Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-01T12:49:52.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HairHarmony_Repository.csproj",
+              "DocumentMoniker": "D:\\SE\\Se_5\\PRN212\\PRN212_HairHarmony_Solution\\HairHarmony_Repository\\HairHarmony_Repository.csproj",
+              "RelativeDocumentMoniker": "HairHarmony_Repository\\HairHarmony_Repository.csproj",
+              "ToolTip": "D:\\SE\\Se_5\\PRN212\\PRN212_HairHarmony_Solution\\HairHarmony_Repository\\HairHarmony_Repository.csproj",
+              "RelativeToolTip": "HairHarmony_Repository\\HairHarmony_Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-01T12:49:43.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HairHarmony_DAOs.csproj",
+              "DocumentMoniker": "D:\\SE\\Se_5\\PRN212\\PRN212_HairHarmony_Solution\\HairHarmony_DAOs\\HairHarmony_DAOs.csproj",
+              "RelativeDocumentMoniker": "HairHarmony_DAOs\\HairHarmony_DAOs.csproj",
+              "ToolTip": "D:\\SE\\Se_5\\PRN212\\PRN212_HairHarmony_Solution\\HairHarmony_DAOs\\HairHarmony_DAOs.csproj",
+              "RelativeToolTip": "HairHarmony_DAOs\\HairHarmony_DAOs.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-01T12:48:56.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HairHarmony_BusinessObject.csproj",
+              "DocumentMoniker": "D:\\SE\\Se_5\\PRN212\\PRN212_HairHarmony_Solution\\HairHarmony_BusinessObject\\HairHarmony_BusinessObject.csproj",
+              "RelativeDocumentMoniker": "HairHarmony_BusinessObject\\HairHarmony_BusinessObject.csproj",
+              "ToolTip": "D:\\SE\\Se_5\\PRN212\\PRN212_HairHarmony_Solution\\HairHarmony_BusinessObject\\HairHarmony_BusinessObject.csproj",
+              "RelativeToolTip": "HairHarmony_BusinessObject\\HairHarmony_BusinessObject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-01T12:44:54.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\SE\\Se_5\\PRN212\\PRN212_HairHarmony_Solution\\PRN212_HairHarmony\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PRN212_HairHarmony\\MainWindow.xaml",
+              "ToolTip": "D:\\SE\\Se_5\\PRN212\\PRN212_HairHarmony_Solution\\PRN212_HairHarmony\\MainWindow.xaml",
+              "RelativeToolTip": "PRN212_HairHarmony\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-01T06:46:10.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\SE\\Se_5\\PRN212\\PRN212_HairHarmony_Solution\\PRN212_HairHarmony\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PRN212_HairHarmony\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\SE\\Se_5\\PRN212\\PRN212_HairHarmony_Solution\\PRN212_HairHarmony\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PRN212_HairHarmony\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:46:10.268Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
