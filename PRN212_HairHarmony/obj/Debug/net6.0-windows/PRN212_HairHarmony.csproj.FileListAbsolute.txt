@@ -55,11 +55,9 @@ D:\SE\Se_5\PRN212\HairHarmony\PRN212_HairHarmony\bin\Debug\net6.0-windows\runtim
 D:\SE\Se_5\PRN212\HairHarmony\PRN212_HairHarmony\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 D:\SE\Se_5\PRN212\HairHarmony\PRN212_HairHarmony\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 D:\SE\Se_5\PRN212\HairHarmony\PRN212_HairHarmony\obj\Debug\net6.0-windows\PRN212_HairHarmony.csproj.AssemblyReference.cache
-D:\SE\Se_5\PRN212\HairHarmony\PRN212_HairHarmony\obj\Debug\net6.0-windows\MainWindow.g.cs
 D:\SE\Se_5\PRN212\HairHarmony\PRN212_HairHarmony\obj\Debug\net6.0-windows\App.g.cs
 D:\SE\Se_5\PRN212\HairHarmony\PRN212_HairHarmony\obj\Debug\net6.0-windows\PRN212_HairHarmony_MarkupCompile.cache
 D:\SE\Se_5\PRN212\HairHarmony\PRN212_HairHarmony\obj\Debug\net6.0-windows\PRN212_HairHarmony_MarkupCompile.lref
-D:\SE\Se_5\PRN212\HairHarmony\PRN212_HairHarmony\obj\Debug\net6.0-windows\MainWindow.baml
 D:\SE\Se_5\PRN212\HairHarmony\PRN212_HairHarmony\obj\Debug\net6.0-windows\PRN212_HairHarmony.g.resources
 D:\SE\Se_5\PRN212\HairHarmony\PRN212_HairHarmony\obj\Debug\net6.0-windows\PRN212_HairHarmony.GeneratedMSBuildEditorConfig.editorconfig
 D:\SE\Se_5\PRN212\HairHarmony\PRN212_HairHarmony\obj\Debug\net6.0-windows\PRN212_HairHarmony.AssemblyInfoInputs.cache
@@ -80,3 +78,8 @@ D:\SE\Se_5\PRN212\HairHarmony\PRN212_HairHarmony\bin\Debug\net6.0-windows\HairHa
 D:\SE\Se_5\PRN212\HairHarmony\PRN212_HairHarmony\bin\Debug\net6.0-windows\HairHarmony_BusinessObject.pdb
 D:\SE\Se_5\PRN212\HairHarmony\PRN212_HairHarmony\bin\Debug\net6.0-windows\HairHarmony_DAOs.pdb
 D:\SE\Se_5\PRN212\HairHarmony\PRN212_HairHarmony\bin\Debug\net6.0-windows\HairHarmony_Repository.pdb
+D:\SE\Se_5\PRN212\HairHarmony\PRN212_HairHarmony\obj\Debug\net6.0-windows\LoginWindow.g.cs
+D:\SE\Se_5\PRN212\HairHarmony\PRN212_HairHarmony\obj\Debug\net6.0-windows\RegisterWindow.g.cs
+D:\SE\Se_5\PRN212\HairHarmony\PRN212_HairHarmony\bin\Debug\net6.0-windows\LoginWindow.xaml.cs
+D:\SE\Se_5\PRN212\HairHarmony\PRN212_HairHarmony\obj\Debug\net6.0-windows\LoginWindow.baml
+D:\SE\Se_5\PRN212\HairHarmony\PRN212_HairHarmony\obj\Debug\net6.0-windows\RegisterWindow.baml

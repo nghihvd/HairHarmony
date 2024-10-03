@@ -24,4 +24,10 @@
     <ProjectReference Include="..\HairHarmony_Services\HairHarmony_Services.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Update="LoginWindow.xaml.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+  </ItemGroup>
+
 </Project>

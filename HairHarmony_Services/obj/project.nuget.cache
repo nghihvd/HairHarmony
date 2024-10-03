@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q3nIwvC0d2k=",
+  "dgSpecHash": "XVYd9fx798s=",
   "success": true,
-  "projectFilePath": "D:\\SE\\Se_5\\PRN212\\PRN212_HairHarmony_Solution\\HairHarmony_Services\\HairHarmony_Services.csproj",
+  "projectFilePath": "D:\\SE\\Se_5\\PRN212\\HairHarmony\\HairHarmony_Services\\HairHarmony_Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

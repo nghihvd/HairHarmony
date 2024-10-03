@@ -2033,11 +2033,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SE\\Se_5\\PRN212\\PRN212_HairHarmony_Solution\\HairHarmony_DAOs\\HairHarmony_DAOs.csproj",
+      "projectUniqueName": "D:\\SE\\Se_5\\PRN212\\HairHarmony\\HairHarmony_DAOs\\HairHarmony_DAOs.csproj",
       "projectName": "HairHarmony_DAOs",
-      "projectPath": "D:\\SE\\Se_5\\PRN212\\PRN212_HairHarmony_Solution\\HairHarmony_DAOs\\HairHarmony_DAOs.csproj",
+      "projectPath": "D:\\SE\\Se_5\\PRN212\\HairHarmony\\HairHarmony_DAOs\\HairHarmony_DAOs.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\SE\\Se_5\\PRN212\\PRN212_HairHarmony_Solution\\HairHarmony_DAOs\\obj\\",
+      "outputPath": "D:\\SE\\Se_5\\PRN212\\HairHarmony\\HairHarmony_DAOs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2059,8 +2059,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\SE\\Se_5\\PRN212\\PRN212_HairHarmony_Solution\\HairHarmony_BusinessObject\\HairHarmony_BusinessObject.csproj": {
-              "projectPath": "D:\\SE\\Se_5\\PRN212\\PRN212_HairHarmony_Solution\\HairHarmony_BusinessObject\\HairHarmony_BusinessObject.csproj"
+            "D:\\SE\\Se_5\\PRN212\\HairHarmony\\HairHarmony_BusinessObject\\HairHarmony_BusinessObject.csproj": {
+              "projectPath": "D:\\SE\\Se_5\\PRN212\\HairHarmony\\HairHarmony_BusinessObject\\HairHarmony_BusinessObject.csproj"
             }
           }
         }

@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 D:\SE\Se_5\PRN212\HairHarmony\PRN212_HairHarmony\App.xaml
-11407045341
+21846837518
 
-41696508139
+5-1073570744
 218860852086
-MainWindow.xaml;
+LoginWindow.xaml;RegisterWindow.xaml;
 
-False
+True
 
