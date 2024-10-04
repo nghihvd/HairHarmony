@@ -150,3 +150,5 @@ C:\Users\GIA BAO\OneDrive\Desktop\PRN212-FA24\HairHarmony\PRN212_HairHarmony\obj
 C:\Users\GIA BAO\OneDrive\Desktop\PRN212-FA24\HairHarmony\PRN212_HairHarmony\obj\Debug\net6.0-windows\ref\PRN212_HairHarmony.dll
 C:\Users\GIA BAO\OneDrive\Desktop\PRN212-FA24\HairHarmony\PRN212_HairHarmony\obj\Debug\net6.0-windows\HomeWindow.g.cs
 C:\Users\GIA BAO\OneDrive\Desktop\PRN212-FA24\HairHarmony\PRN212_HairHarmony\obj\Debug\net6.0-windows\HomeWindow.baml
+C:\Users\GIA BAO\OneDrive\Desktop\PRN212-FA24\HairHarmony\PRN212_HairHarmony\obj\Debug\net6.0-windows\ServiceWindow.g.cs
+C:\Users\GIA BAO\OneDrive\Desktop\PRN212-FA24\HairHarmony\PRN212_HairHarmony\obj\Debug\net6.0-windows\ServiceWindow.baml

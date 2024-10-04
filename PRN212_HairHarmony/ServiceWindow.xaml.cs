@@ -15,21 +15,20 @@ using System.Windows.Shapes;
 namespace PRN212_HairHarmony
 {
     /// <summary>
-    /// Interaction logic for HomeWindow.xaml
+    /// Interaction logic for Service.xaml
     /// </summary>
-    public partial class HomeWindow : Window
+    public partial class ServiceWindow : Window
     {
-        public HomeWindow()
+        public ServiceWindow()
         {
             InitializeComponent();
         }
 
-        private void btnService_Click(object sender, RoutedEventArgs e)
+        private void btnBack_Click(object sender, RoutedEventArgs e)
         {
             this.Hide();
-            ServiceWindow serviceWindow = new ServiceWindow();
-            serviceWindow.Show();
-            
+            HomeWindow homeWindow = new HomeWindow();
+            homeWindow.Show();
         }
 
         private void btnClose_Click(object sender, RoutedEventArgs e)
@@ -37,4 +36,5 @@ namespace PRN212_HairHarmony
             this.Close();
         }
     }
+    
 }

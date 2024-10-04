@@ -5,25 +5,30 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:PRN212_HairHarmony"
         mc:Ignorable="d"
-        Title="HomeWindow" Height="450" Width="800">
+        Title="HomeWindow" Height="450" Width="800" SizeToContent="Manual" WindowStyle="None">
     <Grid Background="#FFD5EFCD">
-        <Button x:Name="btnService" Content="Book Services" HorizontalAlignment="Center" Margin="0,110,0,0" VerticalAlignment="Top" Height="53" Width="184" Background="#FF72B359" FontSize="22" FontWeight="Bold" Click="btnLogin_Click" Foreground="White">
+        <Button x:Name="btnService" Content="Book Services" HorizontalAlignment="Center" Margin="0,110,0,0" VerticalAlignment="Top" Height="53" Width="184" Background="#FF72B359" FontSize="22" FontWeight="Bold" Foreground="White" Click="btnService_Click">
             <Button.Effect>
                 <DropShadowEffect/>
             </Button.Effect>
         </Button>
-        <Button x:Name="btnFeedback" Content="View Feedbacks" HorizontalAlignment="Center" VerticalAlignment="Center" Height="53" Width="184" Background="#FF72B359" FontSize="22" FontWeight="Bold" Click="btnLogin_Click" Foreground="White">
+        <Button x:Name="btnFeedback" Content="View Feedbacks" HorizontalAlignment="Center" VerticalAlignment="Center" Height="53" Width="184" Background="#FF72B359" FontSize="22" FontWeight="Bold"  Foreground="White">
             <Button.Effect>
                 <DropShadowEffect/>
             </Button.Effect>
         </Button>
-        <Button x:Name="btnStylist" Content="View Stylists" HorizontalAlignment="Center" Margin="0,271,0,0" VerticalAlignment="Top" Height="53" Width="184" Background="#FF72B359" FontSize="22" FontWeight="Bold" Click="btnLogin_Click" Foreground="White">
+        <Button x:Name="btnStylist" Content="View Stylists" HorizontalAlignment="Center" Margin="0,271,0,0" VerticalAlignment="Top" Height="53" Width="184" Background="#FF72B359" FontSize="22" FontWeight="Bold"  Foreground="White">
             <Button.Effect>
                 <DropShadowEffect/>
             </Button.Effect>
         </Button>
         <TextBlock HorizontalAlignment="Left" Margin="206,42,0,0" TextWrapping="Wrap" Text="HAIR HARMONY" VerticalAlignment="Top" Height="63" Width="419" FontWeight="Bold" TextAlignment="Center" FontSize="48" RenderTransformOrigin="0.5,0.5" FontFamily="VNI-Standout"/>
-        <Button x:Name="btnProfile" Content="Profile" HorizontalAlignment="Center" Margin="0,351,0,0" VerticalAlignment="Top" Height="53" Width="184" Background="#FF72B359" FontSize="22" FontWeight="Bold" Click="btnLogin_Click" Foreground="White">
+        <Button x:Name="btnProfile" Content="Profile" HorizontalAlignment="Center" Margin="0,351,0,0" VerticalAlignment="Top" Height="53" Width="184" Background="#FF72B359" FontSize="22" FontWeight="Bold"  Foreground="White">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button x:Name="btnClose" Content="❌" HorizontalAlignment="Left" Margin="732,10,0,0" VerticalAlignment="Top" Height="42" Width="47" Background="#FF72B359" FontSize="22" FontWeight="Bold"  Foreground="White" Click="btnClose_Click">
             <Button.Effect>
                 <DropShadowEffect/>
             </Button.Effect>
