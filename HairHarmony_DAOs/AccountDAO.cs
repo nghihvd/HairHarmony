@@ -42,9 +42,9 @@ namespace HairHarmony_DAOs
         {
             bool result = false;
             Account search = SearchAccount(account.AccountId);
-            if (search != null)
+            if (search == null)
             {
-                dbContext.Accounts.Add(search);
+                dbContext.Accounts.Add(account);
                 dbContext.SaveChanges();
                 result = true;
             }

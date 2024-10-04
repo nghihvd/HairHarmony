@@ -1,8 +1,10 @@
 ﻿using HairHarmony_BusinessObject;
+using HairHarmony_Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
@@ -20,23 +22,16 @@ namespace PRN212_HairHarmony
     /// </summary>
     public partial class RegisterWindow : Window
     {
+        private IAccountService accountService;
         public RegisterWindow()
         {
             InitializeComponent();
+            accountService = new AccountService();
         }
 
         
-        private void btnCancel_Click(object sender, RoutedEventArgs e)
-        {
-            this.Close();
-        }
+        
 
-        private void btnBackLogin_Click(object sender, RoutedEventArgs e)
-        {
-            this.Hide();
-            LoginWindow login = new LoginWindow();
-            login.Show();
-        }
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
@@ -49,26 +44,76 @@ namespace PRN212_HairHarmony
 
         private void btnRegister_Click(object sender, RoutedEventArgs e)
         {
+            int role = 0;
+            if (this.cmbRole.SelectedValue.Equals("Stylist"))
+            {
+                role = 1;
+            }
+            else if (this.cmbRole.SelectedValue.Equals("Member"))
+            {
+                role = 2;
+            }
+            else if(this.cmbRole.SelectedValue.Equals("Manager"))
+            {
+                role = 3; 
+            }
+            if (string.IsNullOrEmpty(this.txtUsername.Text)
+                ||string.IsNullOrEmpty(this.txtPassword.Password)
+                ||string.IsNullOrEmpty(this.txtConfirmPassword.Password )
+                ||string.IsNullOrEmpty(this.txtPhoneNumber.Text)
+                || string.IsNullOrEmpty(this.txtEmail.Text)
+                || role == 0
+                || string.IsNullOrEmpty(this.txtFullName.Text))
+            {
+                MessageBox.Show("Please enter all your information.");
+                return;
+            }
+            if (accountService.getAccountByID(this.txtUsername.Text) != null) 
+            {
+                MessageBox.Show("Account already exist. Please enter another user name");
+                return;
+            }
+
             if (!txtConfirmPassword.Password.Equals(txtPassword.Password))
             {
                 MessageBox.Show("Confirm password is incorrect");
                 return;
             }
-            
-            int role = 0;
+            string pattern = @"^0\d{8,10}$";
+            if (!Regex.IsMatch(this.txtPhoneNumber.Text,pattern))
+            {
+                MessageBox.Show("Phone number has to 9 to 11 numbers and start with 0");
+                return;
+            }
+
             Account account = new Account();
             account.Password = txtPassword.Password;
             account.Email  = txtEmail.Text;
             account.AccountId = txtUsername.Text;
             account.Phone = txtPhoneNumber.Text;
-            if (cmbRole.SelectedValue.Equals("Stylist")){
-                role = 1;
-            } else if (cmbRole.SelectedValue.Equals("Member"))
+            account.RoleId = role;
+            account.Name = txtFullName.Text;
+            account.CommissionRate = 0;
+            bool result = accountService.RegisAccount(account);
+            if (result) 
             {
-                role = 2;
+                MessageBox.Show("Register success");
+                return;
             }
-            else { role = 3; }
+            else { MessageBox.Show("Something wrong please check again."); }
             
+        }
+
+        private void btnClose_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+        }
+
+        private void btnBack_Click(object sender, RoutedEventArgs e)
+        {
+            this.Hide();
+            LoginWindow login = new LoginWindow();
+            login.Show();
         }
     }
 }

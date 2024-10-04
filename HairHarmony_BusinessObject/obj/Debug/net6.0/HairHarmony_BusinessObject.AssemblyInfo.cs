@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HairHarmony_BusinessObject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f877f39adaca5083f56854fe6521355fd0756a61")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e17f2876fc0fccb56b808b3560b7495ed96e215c")]
 [assembly: System.Reflection.AssemblyProductAttribute("HairHarmony_BusinessObject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HairHarmony_BusinessObject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
