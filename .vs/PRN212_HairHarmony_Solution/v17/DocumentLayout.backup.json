@@ -11,20 +11,12 @@
       "RelativeMoniker": "D:0:0:{4E989AFC-22C7-4882-A73E-E8E5CDCC5C54}|PRN212_HairHarmony\\PRN212_HairHarmony.csproj|solutionrelative:prn212_hairharmony\\servicewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E989AFC-22C7-4882-A73E-E8E5CDCC5C54}|PRN212_HairHarmony\\PRN212_HairHarmony.csproj|c:\\users\\gia bao\\onedrive\\desktop\\prn212-fa24\\hairharmony\\prn212_hairharmony\\homewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E989AFC-22C7-4882-A73E-E8E5CDCC5C54}|PRN212_HairHarmony\\PRN212_HairHarmony.csproj|solutionrelative:prn212_hairharmony\\homewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4E989AFC-22C7-4882-A73E-E8E5CDCC5C54}|PRN212_HairHarmony\\PRN212_HairHarmony.csproj|c:\\users\\gia bao\\onedrive\\desktop\\prn212-fa24\\hairharmony\\prn212_hairharmony\\homewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{4E989AFC-22C7-4882-A73E-E8E5CDCC5C54}|PRN212_HairHarmony\\PRN212_HairHarmony.csproj|solutionrelative:prn212_hairharmony\\homewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E989AFC-22C7-4882-A73E-E8E5CDCC5C54}|PRN212_HairHarmony\\PRN212_HairHarmony.csproj|c:\\users\\gia bao\\onedrive\\desktop\\prn212-fa24\\hairharmony\\prn212_hairharmony\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E989AFC-22C7-4882-A73E-E8E5CDCC5C54}|PRN212_HairHarmony\\PRN212_HairHarmony.csproj|solutionrelative:prn212_hairharmony\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B090436-675F-4406-9FFC-B6645858A995}|HairHarmony_DAOs\\HairHarmony_DAOs.csproj|c:\\users\\gia bao\\onedrive\\desktop\\prn212-fa24\\hairharmony\\hairharmony_daos\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B090436-675F-4406-9FFC-B6645858A995}|HairHarmony_DAOs\\HairHarmony_DAOs.csproj|solutionrelative:hairharmony_daos\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E989AFC-22C7-4882-A73E-E8E5CDCC5C54}|PRN212_HairHarmony\\PRN212_HairHarmony.csproj|c:\\users\\gia bao\\onedrive\\desktop\\prn212-fa24\\hairharmony\\prn212_hairharmony\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -38,20 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ServiceWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\PRN212_HairHarmony\\ServiceWindow.xaml",
-              "RelativeDocumentMoniker": "PRN212_HairHarmony\\ServiceWindow.xaml",
-              "ToolTip": "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\PRN212_HairHarmony\\ServiceWindow.xaml*",
-              "RelativeToolTip": "PRN212_HairHarmony\\ServiceWindow.xaml*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-04T11:01:16.163Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -60,39 +40,37 @@
               "RelativeDocumentMoniker": "PRN212_HairHarmony\\ServiceWindow.xaml.cs",
               "ToolTip": "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\PRN212_HairHarmony\\ServiceWindow.xaml.cs*",
               "RelativeToolTip": "PRN212_HairHarmony\\ServiceWindow.xaml.cs*",
-              "ViewState": "AgIAABsAAAAAAAAAAAAiwBoAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAuwCcAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T10:58:51.829Z",
+              "WhenOpened": "2024-10-04T11:06:35.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\PRN212_HairHarmony\\ServiceWindow.xaml",
+              "RelativeDocumentMoniker": "PRN212_HairHarmony\\ServiceWindow.xaml",
+              "ToolTip": "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\PRN212_HairHarmony\\ServiceWindow.xaml",
+              "RelativeToolTip": "PRN212_HairHarmony\\ServiceWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-04T11:01:16.163Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HomeWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\PRN212_HairHarmony\\HomeWindow.xaml.cs",
-              "RelativeDocumentMoniker": "PRN212_HairHarmony\\HomeWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\PRN212_HairHarmony\\HomeWindow.xaml.cs",
-              "RelativeToolTip": "PRN212_HairHarmony\\HomeWindow.xaml.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwCEAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T13:35:31.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "HomeWindow.xaml",
               "DocumentMoniker": "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\PRN212_HairHarmony\\HomeWindow.xaml",
               "RelativeDocumentMoniker": "PRN212_HairHarmony\\HomeWindow.xaml",
               "ToolTip": "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\PRN212_HairHarmony\\HomeWindow.xaml",
               "RelativeToolTip": "PRN212_HairHarmony\\HomeWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-03T13:24:50.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T13:24:50.076Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "LoginWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\PRN212_HairHarmony\\LoginWindow.xaml.cs",
               "RelativeDocumentMoniker": "PRN212_HairHarmony\\LoginWindow.xaml.cs",
@@ -100,33 +78,18 @@
               "RelativeToolTip": "PRN212_HairHarmony\\LoginWindow.xaml.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAApwCQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T13:11:19.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T13:11:19.56Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "LoginWindow.xaml",
               "DocumentMoniker": "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\PRN212_HairHarmony\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "PRN212_HairHarmony\\LoginWindow.xaml",
               "ToolTip": "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\PRN212_HairHarmony\\LoginWindow.xaml",
               "RelativeToolTip": "PRN212_HairHarmony\\LoginWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-03T13:11:10.802Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AccountDAO.cs",
-              "DocumentMoniker": "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\HairHarmony_DAOs\\AccountDAO.cs",
-              "RelativeDocumentMoniker": "HairHarmony_DAOs\\AccountDAO.cs",
-              "ToolTip": "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\HairHarmony_DAOs\\AccountDAO.cs",
-              "RelativeToolTip": "HairHarmony_DAOs\\AccountDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T13:07:25.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T13:11:10.802Z"
             }
           ]
         }

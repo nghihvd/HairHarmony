@@ -17,6 +17,14 @@
                 <DropShadowEffect/>
             </Button.Effect>
         </Button>
+        <TextBlock HorizontalAlignment="Left" Margin="169,84,0,0" TextWrapping="Wrap" Text="Service" VerticalAlignment="Top" FontWeight="Bold" FontSize="24"/>
+        <DataGrid x:Name="dtgService" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="30,131,411,25" SelectionChanged="DataGrid_SelectionChanged"/>
+        <TextBlock HorizontalAlignment="Left" Margin="513,132,0,0" TextWrapping="Wrap" Text="Service Name" VerticalAlignment="Top" FontWeight="Bold" Height="24" Width="122" FontSize="16"/>
+        <TextBox x:Name="txtServiceName" HorizontalAlignment="Left" Margin="513,161,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" Height="28"/>
+        <TextBlock HorizontalAlignment="Left" Margin="513,246,0,0" TextWrapping="Wrap" Text="Duration" VerticalAlignment="Top" FontWeight="Bold" Height="24" Width="79" FontSize="16"/>
+        <TextBox x:Name="txtDuration" HorizontalAlignment="Left" Margin="513,278,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" Height="28"/>
+        <TextBlock HorizontalAlignment="Left" Margin="513,369,0,0" TextWrapping="Wrap" Text="Price" VerticalAlignment="Top" FontWeight="Bold" Height="24" Width="44" FontSize="16"/>
+        <TextBox x:Name="txtPrice" HorizontalAlignment="Left" Margin="513,398,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="190" Height="27"/>
 
     </Grid>
 </Window>
