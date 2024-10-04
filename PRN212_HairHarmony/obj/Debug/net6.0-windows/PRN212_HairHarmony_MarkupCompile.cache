@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\SE\Se_5\PRN212\HairHarmony\PRN212_HairHarmony\obj\Debug\net6.0-windows\
+C:\Users\GIA BAO\OneDrive\Desktop\PRN212-FA24\HairHarmony\PRN212_HairHarmony\obj\Debug\net6.0-windows\
 PRN212_HairHarmony
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-D:\SE\Se_5\PRN212\HairHarmony\PRN212_HairHarmony\App.xaml
-21846837518
+C:\Users\GIA BAO\OneDrive\Desktop\PRN212-FA24\HairHarmony\PRN212_HairHarmony\App.xaml
+3690851191
 
-5-1073570744
-218860852086
-LoginWindow.xaml;RegisterWindow.xaml;
+6-189449701
+218-1639830211
+HomeWindow.xaml;LoginWindow.xaml;RegisterWindow.xaml;
 
-True
+False
 

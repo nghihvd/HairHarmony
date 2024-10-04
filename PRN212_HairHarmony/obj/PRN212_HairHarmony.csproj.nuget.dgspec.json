@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SE\\Se_5\\PRN212\\HairHarmony\\PRN212_HairHarmony\\PRN212_HairHarmony.csproj": {}
+    "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\PRN212_HairHarmony\\PRN212_HairHarmony.csproj": {}
   },
   "projects": {
-    "D:\\SE\\Se_5\\PRN212\\HairHarmony\\HairHarmony_BusinessObject\\HairHarmony_BusinessObject.csproj": {
+    "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\HairHarmony_BusinessObject\\HairHarmony_BusinessObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SE\\Se_5\\PRN212\\HairHarmony\\HairHarmony_BusinessObject\\HairHarmony_BusinessObject.csproj",
+        "projectUniqueName": "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\HairHarmony_BusinessObject\\HairHarmony_BusinessObject.csproj",
         "projectName": "HairHarmony_BusinessObject",
-        "projectPath": "D:\\SE\\Se_5\\PRN212\\HairHarmony\\HairHarmony_BusinessObject\\HairHarmony_BusinessObject.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\SE\\Se_5\\PRN212\\HairHarmony\\HairHarmony_BusinessObject\\obj\\",
+        "projectPath": "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\HairHarmony_BusinessObject\\HairHarmony_BusinessObject.csproj",
+        "packagesPath": "C:\\Users\\GIA BAO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\HairHarmony_BusinessObject\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\GIA BAO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -87,21 +83,17 @@
         }
       }
     },
-    "D:\\SE\\Se_5\\PRN212\\HairHarmony\\HairHarmony_DAOs\\HairHarmony_DAOs.csproj": {
+    "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\HairHarmony_DAOs\\HairHarmony_DAOs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SE\\Se_5\\PRN212\\HairHarmony\\HairHarmony_DAOs\\HairHarmony_DAOs.csproj",
+        "projectUniqueName": "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\HairHarmony_DAOs\\HairHarmony_DAOs.csproj",
         "projectName": "HairHarmony_DAOs",
-        "projectPath": "D:\\SE\\Se_5\\PRN212\\HairHarmony\\HairHarmony_DAOs\\HairHarmony_DAOs.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\SE\\Se_5\\PRN212\\HairHarmony\\HairHarmony_DAOs\\obj\\",
+        "projectPath": "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\HairHarmony_DAOs\\HairHarmony_DAOs.csproj",
+        "packagesPath": "C:\\Users\\GIA BAO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\HairHarmony_DAOs\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\GIA BAO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -116,8 +108,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\SE\\Se_5\\PRN212\\HairHarmony\\HairHarmony_BusinessObject\\HairHarmony_BusinessObject.csproj": {
-                "projectPath": "D:\\SE\\Se_5\\PRN212\\HairHarmony\\HairHarmony_BusinessObject\\HairHarmony_BusinessObject.csproj"
+              "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\HairHarmony_BusinessObject\\HairHarmony_BusinessObject.csproj": {
+                "projectPath": "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\HairHarmony_BusinessObject\\HairHarmony_BusinessObject.csproj"
               }
             }
           }
@@ -174,21 +166,17 @@
         }
       }
     },
-    "D:\\SE\\Se_5\\PRN212\\HairHarmony\\HairHarmony_Repository\\HairHarmony_Repository.csproj": {
+    "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\HairHarmony_Repository\\HairHarmony_Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SE\\Se_5\\PRN212\\HairHarmony\\HairHarmony_Repository\\HairHarmony_Repository.csproj",
+        "projectUniqueName": "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\HairHarmony_Repository\\HairHarmony_Repository.csproj",
         "projectName": "HairHarmony_Repository",
-        "projectPath": "D:\\SE\\Se_5\\PRN212\\HairHarmony\\HairHarmony_Repository\\HairHarmony_Repository.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\SE\\Se_5\\PRN212\\HairHarmony\\HairHarmony_Repository\\obj\\",
+        "projectPath": "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\HairHarmony_Repository\\HairHarmony_Repository.csproj",
+        "packagesPath": "C:\\Users\\GIA BAO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\HairHarmony_Repository\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\GIA BAO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -203,8 +191,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\SE\\Se_5\\PRN212\\HairHarmony\\HairHarmony_DAOs\\HairHarmony_DAOs.csproj": {
-                "projectPath": "D:\\SE\\Se_5\\PRN212\\HairHarmony\\HairHarmony_DAOs\\HairHarmony_DAOs.csproj"
+              "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\HairHarmony_DAOs\\HairHarmony_DAOs.csproj": {
+                "projectPath": "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\HairHarmony_DAOs\\HairHarmony_DAOs.csproj"
               }
             }
           }
@@ -261,21 +249,17 @@
         }
       }
     },
-    "D:\\SE\\Se_5\\PRN212\\HairHarmony\\HairHarmony_Services\\HairHarmony_Services.csproj": {
+    "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\HairHarmony_Services\\HairHarmony_Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SE\\Se_5\\PRN212\\HairHarmony\\HairHarmony_Services\\HairHarmony_Services.csproj",
+        "projectUniqueName": "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\HairHarmony_Services\\HairHarmony_Services.csproj",
         "projectName": "HairHarmony_Services",
-        "projectPath": "D:\\SE\\Se_5\\PRN212\\HairHarmony\\HairHarmony_Services\\HairHarmony_Services.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\SE\\Se_5\\PRN212\\HairHarmony\\HairHarmony_Services\\obj\\",
+        "projectPath": "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\HairHarmony_Services\\HairHarmony_Services.csproj",
+        "packagesPath": "C:\\Users\\GIA BAO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\HairHarmony_Services\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\GIA BAO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -290,8 +274,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\SE\\Se_5\\PRN212\\HairHarmony\\HairHarmony_Repository\\HairHarmony_Repository.csproj": {
-                "projectPath": "D:\\SE\\Se_5\\PRN212\\HairHarmony\\HairHarmony_Repository\\HairHarmony_Repository.csproj"
+              "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\HairHarmony_Repository\\HairHarmony_Repository.csproj": {
+                "projectPath": "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\HairHarmony_Repository\\HairHarmony_Repository.csproj"
               }
             }
           }
@@ -348,21 +332,17 @@
         }
       }
     },
-    "D:\\SE\\Se_5\\PRN212\\HairHarmony\\PRN212_HairHarmony\\PRN212_HairHarmony.csproj": {
+    "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\PRN212_HairHarmony\\PRN212_HairHarmony.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SE\\Se_5\\PRN212\\HairHarmony\\PRN212_HairHarmony\\PRN212_HairHarmony.csproj",
+        "projectUniqueName": "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\PRN212_HairHarmony\\PRN212_HairHarmony.csproj",
         "projectName": "PRN212_HairHarmony",
-        "projectPath": "D:\\SE\\Se_5\\PRN212\\HairHarmony\\PRN212_HairHarmony\\PRN212_HairHarmony.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\SE\\Se_5\\PRN212\\HairHarmony\\PRN212_HairHarmony\\obj\\",
+        "projectPath": "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\PRN212_HairHarmony\\PRN212_HairHarmony.csproj",
+        "packagesPath": "C:\\Users\\GIA BAO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\PRN212_HairHarmony\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\GIA BAO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -377,8 +357,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "D:\\SE\\Se_5\\PRN212\\HairHarmony\\HairHarmony_Services\\HairHarmony_Services.csproj": {
-                "projectPath": "D:\\SE\\Se_5\\PRN212\\HairHarmony\\HairHarmony_Services\\HairHarmony_Services.csproj"
+              "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\HairHarmony_Services\\HairHarmony_Services.csproj": {
+                "projectPath": "C:\\Users\\GIA BAO\\OneDrive\\Desktop\\PRN212-FA24\\HairHarmony\\HairHarmony_Services\\HairHarmony_Services.csproj"
               }
             }
           }

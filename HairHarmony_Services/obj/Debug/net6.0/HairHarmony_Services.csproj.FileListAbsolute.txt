@@ -20,3 +20,25 @@ D:\SE\Se_5\PRN212\HairHarmony\HairHarmony_Services\bin\Debug\net6.0\HairHarmony_
 D:\SE\Se_5\PRN212\HairHarmony\HairHarmony_Services\bin\Debug\net6.0\HairHarmony_BusinessObject.pdb
 D:\SE\Se_5\PRN212\HairHarmony\HairHarmony_Services\bin\Debug\net6.0\HairHarmony_DAOs.pdb
 D:\SE\Se_5\PRN212\HairHarmony\HairHarmony_Services\obj\Debug\net6.0\HairHarm.8DE543A4.Up2Date
+C:\Users\GIA BAO\OneDrive\Desktop\PRN212-FA24\HairHarmony\HairHarmony_Services\bin\Debug\net6.0\HairHarmony_Services.deps.json
+C:\Users\GIA BAO\OneDrive\Desktop\PRN212-FA24\HairHarmony\HairHarmony_Services\bin\Debug\net6.0\HairHarmony_Services.runtimeconfig.json
+C:\Users\GIA BAO\OneDrive\Desktop\PRN212-FA24\HairHarmony\HairHarmony_Services\bin\Debug\net6.0\HairHarmony_Services.dll
+C:\Users\GIA BAO\OneDrive\Desktop\PRN212-FA24\HairHarmony\HairHarmony_Services\bin\Debug\net6.0\HairHarmony_Services.pdb
+C:\Users\GIA BAO\OneDrive\Desktop\PRN212-FA24\HairHarmony\HairHarmony_Services\bin\Debug\net6.0\HairHarmony_BusinessObject.dll
+C:\Users\GIA BAO\OneDrive\Desktop\PRN212-FA24\HairHarmony\HairHarmony_Services\bin\Debug\net6.0\HairHarmony_DAOs.dll
+C:\Users\GIA BAO\OneDrive\Desktop\PRN212-FA24\HairHarmony\HairHarmony_Services\bin\Debug\net6.0\HairHarmony_Repository.dll
+C:\Users\GIA BAO\OneDrive\Desktop\PRN212-FA24\HairHarmony\HairHarmony_Services\bin\Debug\net6.0\HairHarmony_Repository.pdb
+C:\Users\GIA BAO\OneDrive\Desktop\PRN212-FA24\HairHarmony\HairHarmony_Services\bin\Debug\net6.0\HairHarmony_BusinessObject.pdb
+C:\Users\GIA BAO\OneDrive\Desktop\PRN212-FA24\HairHarmony\HairHarmony_Services\bin\Debug\net6.0\HairHarmony_DAOs.pdb
+C:\Users\GIA BAO\OneDrive\Desktop\PRN212-FA24\HairHarmony\HairHarmony_Services\obj\Debug\net6.0\HairHarmony_Services.csproj.AssemblyReference.cache
+C:\Users\GIA BAO\OneDrive\Desktop\PRN212-FA24\HairHarmony\HairHarmony_Services\obj\Debug\net6.0\HairHarmony_Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIA BAO\OneDrive\Desktop\PRN212-FA24\HairHarmony\HairHarmony_Services\obj\Debug\net6.0\HairHarmony_Services.AssemblyInfoInputs.cache
+C:\Users\GIA BAO\OneDrive\Desktop\PRN212-FA24\HairHarmony\HairHarmony_Services\obj\Debug\net6.0\HairHarmony_Services.AssemblyInfo.cs
+C:\Users\GIA BAO\OneDrive\Desktop\PRN212-FA24\HairHarmony\HairHarmony_Services\obj\Debug\net6.0\HairHarmony_Services.csproj.CoreCompileInputs.cache
+C:\Users\GIA BAO\OneDrive\Desktop\PRN212-FA24\HairHarmony\HairHarmony_Services\obj\Debug\net6.0\HairHarmony_Services.sourcelink.json
+C:\Users\GIA BAO\OneDrive\Desktop\PRN212-FA24\HairHarmony\HairHarmony_Services\obj\Debug\net6.0\HairHarm.8DE543A4.Up2Date
+C:\Users\GIA BAO\OneDrive\Desktop\PRN212-FA24\HairHarmony\HairHarmony_Services\obj\Debug\net6.0\HairHarmony_Services.dll
+C:\Users\GIA BAO\OneDrive\Desktop\PRN212-FA24\HairHarmony\HairHarmony_Services\obj\Debug\net6.0\refint\HairHarmony_Services.dll
+C:\Users\GIA BAO\OneDrive\Desktop\PRN212-FA24\HairHarmony\HairHarmony_Services\obj\Debug\net6.0\HairHarmony_Services.pdb
+C:\Users\GIA BAO\OneDrive\Desktop\PRN212-FA24\HairHarmony\HairHarmony_Services\obj\Debug\net6.0\HairHarmony_Services.genruntimeconfig.cache
+C:\Users\GIA BAO\OneDrive\Desktop\PRN212-FA24\HairHarmony\HairHarmony_Services\obj\Debug\net6.0\ref\HairHarmony_Services.dll

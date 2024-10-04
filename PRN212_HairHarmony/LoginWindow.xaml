@@ -7,35 +7,32 @@
         mc:Ignorable="d"
         Title="LoginWindow" Height="450" Width="800" Background="#FFCAC4C1" WindowStyle="None" WindowStartupLocation="CenterScreen">
     <Grid Background="#FFD5EFCD">
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="97*"/>
-            <ColumnDefinition Width="703*"/>
-        </Grid.ColumnDefinitions>
-        <TextBlock HorizontalAlignment="Left" Margin="112,36,0,0" TextWrapping="Wrap" Text="HAIR HARMONY" VerticalAlignment="Top" Height="63" Width="419" FontWeight="Bold" TextAlignment="Center" FontSize="48" RenderTransformOrigin="0.5,0.5" FontFamily="VNI-Standout" Grid.Column="1"/>
-        <TextBox x:Name="txtUsername" HorizontalAlignment="Left" Height="36" Margin="124,166,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="441" Grid.Column="1">
+
+        <TextBlock HorizontalAlignment="Left" Margin="206,42,0,0" TextWrapping="Wrap" Text="HAIR HARMONY" VerticalAlignment="Top" Height="63" Width="419" FontWeight="Bold" TextAlignment="Center" FontSize="48" RenderTransformOrigin="0.5,0.5" FontFamily="VNI-Standout"/>
+        <TextBox x:Name="txtUsername" HorizontalAlignment="Left" Height="36" Margin="218,172,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="441">
             <TextBox.Effect>
                 <DropShadowEffect/>
             </TextBox.Effect>
         </TextBox>
-        <TextBlock HorizontalAlignment="Left" Margin="9,173,0,0" TextWrapping="Wrap" Text="Username " VerticalAlignment="Top" FontSize="16" FontWeight="Bold" FontStyle="Italic" Grid.Column="1"/>
-        <TextBlock HorizontalAlignment="Left" Margin="9,254,0,0" TextWrapping="Wrap" Text="Password" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" FontStyle="Italic" Grid.Column="1"/>
-        <Button x:Name="btnLogin" Content="Login" HorizontalAlignment="Left" Margin="124,331,0,0" VerticalAlignment="Top" Height="34" Width="116" Background="#FF72B359" FontSize="16" FontWeight="Bold" Click="btnLogin_Click" Grid.Column="1">
+        <TextBlock HorizontalAlignment="Left" Margin="103,179,0,0" TextWrapping="Wrap" Text="Username " VerticalAlignment="Top" FontSize="16" FontWeight="Bold" FontStyle="Italic"/>
+        <TextBlock HorizontalAlignment="Left" Margin="103,260,0,0" TextWrapping="Wrap" Text="Password" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" FontStyle="Italic"/>
+        <Button x:Name="btnLogin" Content="Login" HorizontalAlignment="Left" Margin="218,337,0,0" VerticalAlignment="Top" Height="34" Width="116" Background="#FF72B359" FontSize="16" FontWeight="Bold" Click="btnLogin_Click">
             <Button.Effect>
                 <DropShadowEffect/>
             </Button.Effect>
         </Button>
-        <Button x:Name="btnCancel" Content="Cancel" HorizontalAlignment="Left" Margin="449,331,0,0" VerticalAlignment="Top" Height="34" Width="116" Background="#FF72B359" FontSize="16" FontWeight="Bold" Grid.Column="1" Click="btnCancel_Click">
+        <Button x:Name="btnCancel" Content="Cancel" HorizontalAlignment="Left" Margin="543,337,0,0" VerticalAlignment="Top" Height="34" Width="116" Background="#FF72B359" FontSize="16" FontWeight="Bold" Click="btnCancel_Click">
             <Button.Effect>
                 <DropShadowEffect/>
             </Button.Effect>
         </Button>
-        <PasswordBox x:Name="txtPassword" HorizontalAlignment="Left" Margin="124,247,0,0" VerticalAlignment="Top" Width="441" Height="36" Grid.Column="1">
+        <PasswordBox x:Name="txtPassword" HorizontalAlignment="Left" Margin="218,253,0,0" VerticalAlignment="Top" Width="441" Height="36">
             <PasswordBox.Effect>
                 <DropShadowEffect/>
             </PasswordBox.Effect>
         </PasswordBox>
-        <TextBlock HorizontalAlignment="Left" Height="36" Margin="112,113,0,0" TextWrapping="Wrap" Text="Login" VerticalAlignment="Top" Width="417" TextAlignment="Center" FontSize="24" FontWeight="Bold" Grid.Column="1"/>
-        <Button x:Name="btnRegis" Content="Register" HorizontalAlignment="Left" Margin="287,331,0,0" VerticalAlignment="Top" Height="34" Width="116" Background="#FF72B359" FontSize="16" FontWeight="Bold" Grid.Column="1" Click="btnRegis_Click">
+        <TextBlock HorizontalAlignment="Left" Height="36" Margin="206,119,0,0" TextWrapping="Wrap" Text="Login" VerticalAlignment="Top" Width="417" TextAlignment="Center" FontSize="24" FontWeight="Bold"/>
+        <Button x:Name="btnRegis" Content="Register" HorizontalAlignment="Left" Margin="381,337,0,0" VerticalAlignment="Top" Height="34" Width="116" Background="#FF72B359" FontSize="16" FontWeight="Bold" Click="btnRegis_Click">
             <Button.Effect>
                 <DropShadowEffect/>
             </Button.Effect>
