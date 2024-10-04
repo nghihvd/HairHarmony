@@ -1,21 +1,3 @@
-D:\SE\Se_5\PRN212\HairHarmony\HairHarmony_DAOs\bin\Debug\net6.0\HairHarmony_DAOs.deps.json
-D:\SE\Se_5\PRN212\HairHarmony\HairHarmony_DAOs\bin\Debug\net6.0\HairHarmony_DAOs.runtimeconfig.json
-D:\SE\Se_5\PRN212\HairHarmony\HairHarmony_DAOs\bin\Debug\net6.0\HairHarmony_DAOs.dll
-D:\SE\Se_5\PRN212\HairHarmony\HairHarmony_DAOs\bin\Debug\net6.0\HairHarmony_DAOs.pdb
-D:\SE\Se_5\PRN212\HairHarmony\HairHarmony_DAOs\obj\Debug\net6.0\HairHarmony_DAOs.csproj.AssemblyReference.cache
-D:\SE\Se_5\PRN212\HairHarmony\HairHarmony_DAOs\obj\Debug\net6.0\HairHarmony_DAOs.GeneratedMSBuildEditorConfig.editorconfig
-D:\SE\Se_5\PRN212\HairHarmony\HairHarmony_DAOs\obj\Debug\net6.0\HairHarmony_DAOs.AssemblyInfoInputs.cache
-D:\SE\Se_5\PRN212\HairHarmony\HairHarmony_DAOs\obj\Debug\net6.0\HairHarmony_DAOs.AssemblyInfo.cs
-D:\SE\Se_5\PRN212\HairHarmony\HairHarmony_DAOs\obj\Debug\net6.0\HairHarmony_DAOs.csproj.CoreCompileInputs.cache
-D:\SE\Se_5\PRN212\HairHarmony\HairHarmony_DAOs\obj\Debug\net6.0\HairHarmony_DAOs.sourcelink.json
-D:\SE\Se_5\PRN212\HairHarmony\HairHarmony_DAOs\obj\Debug\net6.0\HairHarmony_DAOs.dll
-D:\SE\Se_5\PRN212\HairHarmony\HairHarmony_DAOs\obj\Debug\net6.0\refint\HairHarmony_DAOs.dll
-D:\SE\Se_5\PRN212\HairHarmony\HairHarmony_DAOs\obj\Debug\net6.0\HairHarmony_DAOs.pdb
-D:\SE\Se_5\PRN212\HairHarmony\HairHarmony_DAOs\obj\Debug\net6.0\HairHarmony_DAOs.genruntimeconfig.cache
-D:\SE\Se_5\PRN212\HairHarmony\HairHarmony_DAOs\obj\Debug\net6.0\ref\HairHarmony_DAOs.dll
-D:\SE\Se_5\PRN212\HairHarmony\HairHarmony_DAOs\bin\Debug\net6.0\HairHarmony_BusinessObject.dll
-D:\SE\Se_5\PRN212\HairHarmony\HairHarmony_DAOs\bin\Debug\net6.0\HairHarmony_BusinessObject.pdb
-D:\SE\Se_5\PRN212\HairHarmony\HairHarmony_DAOs\obj\Debug\net6.0\HairHarm.546C5A28.Up2Date
 C:\Users\GIA BAO\OneDrive\Desktop\PRN212-FA24\HairHarmony\HairHarmony_DAOs\bin\Debug\net6.0\HairHarmony_DAOs.deps.json
 C:\Users\GIA BAO\OneDrive\Desktop\PRN212-FA24\HairHarmony\HairHarmony_DAOs\bin\Debug\net6.0\HairHarmony_DAOs.runtimeconfig.json
 C:\Users\GIA BAO\OneDrive\Desktop\PRN212-FA24\HairHarmony\HairHarmony_DAOs\bin\Debug\net6.0\HairHarmony_DAOs.dll
